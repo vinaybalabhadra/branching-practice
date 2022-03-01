@@ -1,1 +1,1 @@
-This is the second.txt in master branch
+This is the second.txt in my-new-branch
